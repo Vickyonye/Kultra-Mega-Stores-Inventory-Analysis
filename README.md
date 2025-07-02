@@ -49,3 +49,4 @@ The primary sources of data used here are KMS Sql Case Study.csv – Contains or
 - Calculated total returns and profitability by customer
 
 
+
