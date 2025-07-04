@@ -49,6 +49,10 @@ As a Business Data Analyst, I used SQL to query and clean sales data, and then b
 
 ---
 
+## 📸 Dashboard Preview
+![dashboard screenshot](https://github.com/user-attachments/assets/2ada7e11-523a-4fa7-b218-f2543658a70d)
+
+---
 ## 📸 Sample Visuals
 
 | Insight | Screenshot |
