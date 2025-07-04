@@ -8,7 +8,7 @@ As a Business Data Analyst, I used SQL to query and clean sales data, and then b
 ---
 
 ## 🧰 Tools Used
-- **SQL (Microsoft SQL Server)** – Data extraction and transformation
+- **SQL (Microsoft SQL Server)** – Data extraction and transformation [download],[http://www.sql.com]
 - **Power BI** – Data modeling, DAX measures, interactive dashboards
 - **GitHub** – Portfolio publishing and version control
 
