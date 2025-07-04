@@ -1,52 +1,83 @@
-# MY-PROJECT
-Hi! I'm Onyemenam Ifeoma — a passionate Data Analyst with experience in Excel, SQL, and Power BI. Below are my featured projects:
+# 📈 KMS Sales Analysis – Power BI + SQL Case Study
 
-## 🔸project topic: Kultra Mega Stores Inventory Analysis
-### project overview 
-This Data Analysis project aims to analyze sales, shipping costs, customer segments, and regional performance for Kultra Mega Stores’ Abuja division using historical order data. The goal is to uncover insights that support strategic decisions in operations, customer management, and logistics.
+## 📝 Project Overview
+KMS, a global retail company, aims to improve its sales performance, profitability, and logistics by analyzing customer orders across regions, product categories, and shipping methods. This case study uses **SQL for data extraction** and **Power BI for visualization** to deliver actionable business insights.
 
-### Data sources
-The primary sources of data used here are KMS Sql Case Study.csv – Contains order-level data including customer details, product info, sales, and shipping metrics (2009–2012). Order_Status.csv – Lists returned orders with their statuses, linked by Order ID.
+As a Business Data Analyst, I used SQL to query and clean sales data, and then built an interactive dashboard in Power BI to support management’s decision-making.
 
- ### Tools & Technologies:
-- SQL Server Management Studio (SSMS) – for data querying and extraction
-- Power BI – for building interactive dashboards and data visualizations
-- Microsoft Excel – [download here](https://www.microsoft.com)
-  - for preliminary data cleaning 
-  - for exploration
+---
 
+## 🧰 Tools Used
+- **SQL (Microsoft SQL Server)** – Data extraction and transformation
+- **Power BI** – Data modeling, DAX measures, interactive dashboards
+- **GitHub** – Portfolio publishing and version control
 
-📊 Key Analyses Conducted:
+---
 
-1 Product Performance
+## 📦 Data Sources
 
-- Identified highest and lowest performing product categories
+- **KMS Sales Database (SQL)**:
+  - Tables: Orders, Products, Returns, Customers, Regions
+  - Fields: Order ID, Product, Segment, Region, Order Date, Sales, Profit, Quantity, Shipping Method, Return Status
 
-- Measured sales across product segments
+---
 
-2 Regional Insights
+## 🔍 Key Analyses Conducted
 
-- Ranked regions by total sales
+1. **KPI Cards**
+   - Total Sales
+   - Total Profit
+   - Total Orders
+   - Returns Count
+   - Shipping Cost
 
-- Highlighted areas with low revenue generation
+2. **Sales by Product & Category**
+   - Ranked top-selling products and product lines
+   - Tracked category performance by sales and quantity sold
 
-3 Customer Behavior
+3. **Profit Analysis by Region**
+   - Evaluated net profit across four major regions
+   - Highlighted low-profit areas for intervention
 
-- Identified top and bottom customers by revenue
+4. **Shipping Method Efficiency**
+   - Compared shipping cost per method
+   - Identified overuse of expensive methods like Express Air
 
-- Segmented customers by Consumer, Corporate, and Small Business
+5. **Returned Orders**
+   - Analyzed return frequency by product and customer segment
+   - Flagged problematic products with high return ratios
 
-4 Shipping Method Efficiency
+---
 
-- Evaluated cost-effectiveness of shipping modes
+## 📸 Sample Visuals
 
-- Measured alignment between Order Priority and Shipping Mode
+| Insight | Screenshot |
+|--------|------------|
+| KPI Cards | ![KPI Cards](images/kpi_cards.png) |
+| Sales by Product | ![Sales by Product](images/sales_by_product.png) |
+| Profit by Region | ![Profit by Region](images/profit_by_region.png) |
+| Shipping Cost by Method | ![Shipping Cost](images/shipping_cost_by_method.png) |
+| Returns Analysis | ![Returns](images/returns_analysis.png) |
 
-5 Returns and Profitability
+---
 
-- Analyzed which customer segments returned the most items
+## 🎯 Recommendations
 
-- Calculated total returns and profitability by customer
+- Prioritize sales of high-margin product categories
+- Investigate regions with lower profitability and returns
+- Optimize shipping methods for cost-efficiency without compromising speed
+- Address return issues in specific customer segments or product lines
 
+---
 
+## 📂 Files Included
+
+- `kms_sales_analysis.pbix` – Power BI report with SQL-imported dataset
+- `presentation.pptx` – Slide deck summarizing key insights and visuals
+- `images/` – Screenshots of dashboard visuals for GitHub display
+
+---
+
+> 💡 This case study highlights my skills in querying SQL databases, transforming business data, and building visual dashboards that influence real-world business strategy.
+"""
 
