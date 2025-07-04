@@ -48,10 +48,6 @@ As a Business Data Analyst, I used SQL to query and clean sales data, and then b
    - Flagged problematic products with high return ratios
 
 ---
-## 📁 Project Files
-
-- 🔗 [Power BI Dashboard (.pbix)](https://github.com/Vickyonye/Kultra-Mega-Stores-Inventory-Analysis/blob/main/kms_sales_analysis.pbix)
-- 🔗 [SQL Script (query.sql)](https://github.com/Vickyonye/Kultra-Mega-Stores-Inventory-Analysis/blob/main/query.sql)
 
 ## 📸 Sample Visuals
 
