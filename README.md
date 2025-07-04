@@ -53,11 +53,11 @@ As a Business Data Analyst, I used SQL to query and clean sales data, and then b
 
 | Insight | Screenshot |
 |--------|------------|
-| KPI Cards | ![KPI Cards](images/kpi_cards.png) |
-| Sales by Product | ![Sales by Product](images/sales_by_product.png) |
-| Profit by Region | ![Profit by Region](images/profit_by_region.png) |
-| Shipping Cost by Method | ![Shipping Cost](images/shipping_cost_by_method.png) |
-| Returns Analysis | ![Returns](images/returns_analysis.png) |
+| KPI Cards | ![kpi cards](https://github.com/user-attachments/assets/1059b3aa-4546-4173-821f-4112e1ece769)|
+| Sales by Product | ![sales by products](https://github.com/user-attachments/assets/869b8552-2cdd-4c98-8507-d938c27f7fdc)|
+| Profit by Region | ![profit by region](https://github.com/user-attachments/assets/a6883707-d6c5-4c17-8cb5-406b5574365a)|
+| Shipping Cost by Method | !![shipping cost by method](https://github.com/user-attachments/assets/2723ad18-35a1-4fe8-a546-608bb3877032)|
+| Returns Analysis | ![returns analysis](https://github.com/user-attachments/assets/b1a81f9e-0aa9-45b0-b4ff-7fbc1eeeff19)|
 
 ---
 
