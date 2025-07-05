@@ -8,8 +8,8 @@ As a Business Data Analyst, I used SQL to query and clean sales data, and then b
 ---
 
 ## 🧰 Tools Used
-- **SQL (Microsoft SQL Server)** – Data extraction and transformation [download],[http://www.sql.com]
-- **Power BI** – Data modeling, DAX measures, interactive dashboards
+- **SQL (Microsoft SQL Server)** – Data extraction and transformation [download],[https://www.microsoft.com/en-us/sql-server/sql-server-downloads]
+- **Power BI** – Data modeling, DAX measures, interactive dashboards [downloa],[https://powerbi.microsoft.com/desktop]
 - **GitHub** – Portfolio publishing and version control
 
 ---
@@ -48,11 +48,8 @@ As a Business Data Analyst, I used SQL to query and clean sales data, and then b
    - Flagged problematic products with high return ratios
 
 ---
+![dashboard Screenshot ](https://github.com/user-attachments/assets/5266cf75-f442-461e-baec-a2170107d383)
 
-## 📸 Dashboard Preview
-![dashboard screenshot](https://github.com/user-attachments/assets/2ada7e11-523a-4fa7-b218-f2543658a70d)
-
----
 ## 📸 Sample Visuals
 
 | Insight | Screenshot |
